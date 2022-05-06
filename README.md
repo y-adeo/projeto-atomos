@@ -1,3 +1,3 @@
 # Hiring Coders #3 
 
-## Projeto criado para praticar comandos básicos no Git e GitHub
+### Criado apenas para praticar comandos básicos no Git e GitHub
